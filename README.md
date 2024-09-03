@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://pranav-balu.vercel.app/](https://pranav-balu.vercel.app/)
 
 - ⚡ Fun fact **I've got a lil birdy who thinks I'm the best**
-- 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1" alt="pranavbalu1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
