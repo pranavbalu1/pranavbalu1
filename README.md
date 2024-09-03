@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbalu1&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbalu1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbalu1&label=Profile%20views&color=0d1117&style=flat" alt="pranavbalu1" /> </p>
 
 
 
