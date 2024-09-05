@@ -199,9 +199,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranavbalu1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&show_icons=true&locale=en&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="pranavbalu1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="pranavbalu1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&background=181414&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="pranavbalu1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="pranavbalu1" /></p>
+
 
