@@ -209,6 +209,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&theme=dark" alt="pranavbalu1" /></p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&theme=dark&hide_border=true" alt="pranavbalu1" />
+</p>
 
 
 
