@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=onedark&column=8&margin-w=25&margin-h=25&no-frame=true" alt="pranavbalu1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=onedark&column=8&margin-w=25&margin-h=25&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="pranavbalu1" />
   </a>
 </p>
 
