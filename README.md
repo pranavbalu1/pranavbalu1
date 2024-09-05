@@ -19,7 +19,11 @@
 
 - ⚡ Fun fact **I've got a lil birdy who thinks I'm the best**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=dark" alt="pranavbalu1" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=onedark" alt="pranavbalu1" />
+  </a>
+</p>p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -199,11 +203,11 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranavbalu1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&show_icons=true&locale=en&layout=compact" alt="pranavbalu1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en" alt="pranavbalu1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&background=cccccc&ring=F5F5F5&currStreakLabel=F5F5F5&sideLabels=F5F5F5&border_radius=10" alt="pranavbalu1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&" alt="pranavbalu1" /></p>
 
 
 
