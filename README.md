@@ -82,7 +82,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=pranavbalu1&theme=dark" alt="pranavbalu1" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=pranavbalu1&theme=dark&starting_year=2019" alt="pranavbalu1" /></p>
 
 
 <p align="center">
