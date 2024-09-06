@@ -40,7 +40,7 @@
 <h4>Programming Languages</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,java,js,ts,kotlin,dart,php,latex " />
+    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,java,js,ts,kotlin,dart,php,dotnet,latex " />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 <!-- Web Development -->
 <h4>Web Development</h4>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,redux,tailwindcss,nodejs,nextjs,nuxtjs,graphql,threejs,electron,vercel" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,redux,tailwindcss,nodejs,nextjs,nuxtjs,graphql,threejs,electron,vercel,flask," />
   </a>
 </p>
 
@@ -61,17 +61,21 @@
   </a>
 </p>
 
+<!--AI Tools -->
+<h4>AI Tools</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  </a>
 
+</p>
 
 <!-- Tools -->
 <h4>Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,aws,linux,ubuntu,kubernetes,latex,graphql,godot,unity,unreal,gradlem,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,aws,gcp,linux,ubuntu,raspberrypi,kubernetes,latex,postman,graphql,godot,unity,unreal,gradlem,vim,npm,matlab" />
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranavbalu1" /></p>
