@@ -209,6 +209,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbalu1&theme=dark" alt="pranavbalu1" /></p>
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/pranavbalu1/pranavbalu1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/pranavbalu1/pranavbalu1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=pranavbalu1)
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
