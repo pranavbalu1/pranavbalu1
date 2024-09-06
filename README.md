@@ -121,34 +121,17 @@
 <!-- Database -->
 <h4>Databases</h4>
 <p align="left">
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra.svg" alt="Cassandra" width="40" height="40"/>
-  </a> 
-  <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CockroachDB-Dark.svg" alt="CockroachDB" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MSSQL-Dark.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Oracle-Dark.svg" alt="Oracle" width="40" height="40"/>
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a> 
-  <a href="https://realm.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Realm.svg" alt="Realm" width="40" height="40"/>
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" alt="Redis" width="40" height="40"/>
+
+
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cassandra,redis,mysql, postgresql, oracle, mongodb ,firebase" />
   </a>
 </p>
+
 
 
 <!-- Tools -->
