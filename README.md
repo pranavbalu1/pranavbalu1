@@ -48,7 +48,7 @@
 <!-- Web Development -->
 <h4>Web Development</h4>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,redux,tailwindcss,nodejs,nextjs,nuxtjs,graphql,threejs,electron,vercel,flask," />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,redux,tailwindcss,nodejs,nextjs,nuxtjs,graphql,threejs,electron,vercel,flask,django" />
   </a>
 </p>
 
