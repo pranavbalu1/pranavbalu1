@@ -82,6 +82,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pranavbalu1&theme=dark&starting_year=2019-01-01)](https://git.io/streak-stats)
 
 
 <p align="center">
