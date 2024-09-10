@@ -79,12 +79,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranavbalu1&theme=dark&starting_year=2019-01-01)](https://git.io/streak-stats)
 
 <div align="center " >
+    <a href="https://github.com/pranavbalu1/Image-Depth-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=Image-Depth-Analysis&theme=dark"  />
+  </a>
   <a href="https://github.com/pranavbalu1/ML-CI-CD-Pipeline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=ML-CI-CD-Pipeline&theme=dark"  />
   </a>
-  <a href="https://github.com/pranavbalu1/Image-Depth-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=Image-Depth-Analysis&theme=dark"  />
-  </a>
+
   <a href="https://github.com/pranavbalu1/AbyssUnity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=AbyssUnity&theme=dark"  />
   </a>
