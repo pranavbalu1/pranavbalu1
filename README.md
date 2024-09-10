@@ -21,18 +21,12 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=onedark&column=8&margin-w=25&margin-h=25&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="pranavbalu1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=darkhub&column=5&margin-w=25&margin-h=25&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="pranavbalu1" />
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pranavbalu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav balu" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/pranavbalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavbalu1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranav_balu_124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranav_balu_124" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranavbalu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavbalu1" height="30" width="40" /></a>
-<a href="https://discord.gg/.ent1ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".ent1ty" height="30" width="40" /></a>
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -84,13 +78,30 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranavbalu1&theme=dark&starting_year=2019-01-01)](https://git.io/streak-stats)
 
+<div align="center " >
+  <a href="https://github.com/pranavbalu1/ML-CI-CD-Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=ML-CI-CD-Pipeline&theme=dark"  />
+  </a>
+  <a href="https://github.com/pranavbalu1/Image-Depth-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=Image-Depth-Analysis&theme=dark"  />
+  </a>
+  <a href="https://github.com/pranavbalu1/AbyssUnity">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=AbyssUnity&theme=dark"  />
+  </a>
+  <a href="https://github.com/pranavbalu1/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=Portfolio&theme=dark"  />
+  </a>
+</div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pranavbalu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav balu" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pranavbalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavbalu1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pranav_balu_124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranav_balu_124" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pranavbalu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavbalu1" height="30" width="40" /></a>
+<a href="https://discord.gg/.ent1ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".ent1ty" height="30" width="40" /></a>
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-
-
-
-
