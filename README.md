@@ -73,6 +73,7 @@
 </p>
 
 <p>
+<h2>GitHub Stats!</h2>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbalu1&layout=donut&theme=dark)](https://github.com/pranavbalu1/github-readme-stats)
 
