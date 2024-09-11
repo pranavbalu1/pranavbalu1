@@ -89,8 +89,8 @@
   <a href="https://github.com/pranavbalu1/AbyssUnity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=AbyssUnity&theme=dark"  />
   </a>
-  <a href="https://github.com/pranavbalu1/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=Portfolio&theme=dark"  />
+  <a href="https://github.com/pranavbalu1/time-series-analysis-sagemaker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=time-series-analysis-sagemaker&theme=dark"  />
   </a>
 </div>
 
