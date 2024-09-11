@@ -72,11 +72,20 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&show_icons=true&locale=en&layout=compact&theme=dark" alt="pranavbalu1" /></p>
+<p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbalu1&layout=donut&theme=dark)](https://github.com/pranavbalu1/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" /></p>
+<a href="https://github.com/pranavbalu1/github-readme-stats">
+  <img  height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" />
+</a>
+<a href="https://github.com/pranavbalu1/convoychat">
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pranavbalu1&theme=dark&starting_year=2019-01-01)](https://git.io/streak-stats)
+<p>
+  
+</p>
 
 <div align="center " >
     <a href="https://github.com/pranavbalu1/Image-Depth-Analysis">
@@ -85,7 +94,7 @@
   <a href="https://github.com/pranavbalu1/ML-CI-CD-Pipeline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=ML-CI-CD-Pipeline&theme=dark"  />
   </a>
-
+</p>
   <a href="https://github.com/pranavbalu1/AbyssUnity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=AbyssUnity&theme=dark"  />
   </a>
