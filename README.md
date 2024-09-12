@@ -68,7 +68,7 @@
 <h4>Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,aws,gcp,linux,ubuntu,raspberrypi,kubernetes,latex,postman,graphql,godot,unity,unreal,gradle,vim,npm,matlab&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,aws,gcp,linux,ubuntu,raspberrypi,kubernetes,postman,graphql,godot,unity,unreal,gradle,vim,npm,matlab&perline=8" />
   </a>
 </p>
 
