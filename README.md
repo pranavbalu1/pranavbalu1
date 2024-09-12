@@ -75,7 +75,6 @@
 <p>
 <h2>GitHub Stats!</h2>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbalu1&layout=compact&theme=dark)](https://github.com/pranavbalu1/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=pranavbalu1&theme=dark&card_height=140)](https://git.io/streak-stats)
 <a href="https://github.com/pranavbalu1/github-readme-stats">
   <img  height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=pranavbalu1&show_icons=true&locale=en&theme=dark" alt="pranavbalu1" />
