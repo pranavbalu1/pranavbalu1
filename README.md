@@ -34,7 +34,7 @@
 <h4>Programming Languages</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,java,js,ts,kotlin,dart,php,dotnet,latex " />
+    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,java,js,ts,kotlin,dart,php,dotnet,latex&perline=8 " />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 <!-- Web Development -->
 <h4>Web Development</h4>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,redux,tailwindcss,nodejs,nextjs,nuxtjs,graphql,threejs,electron,vercel,flask,django" />
+    <img src="https://skillicons.dev/icons?i=react,angular,vue,svelte,redux,tailwindcss,nodejs,nextjs,nuxtjs,graphql,threejs,electron,vercel,flask,django&perline=8" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@
 <h4>Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,aws,gcp,linux,ubuntu,raspberrypi,kubernetes,latex,postman,graphql,godot,unity,unreal,gradlem,vim,npm,matlab" />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,aws,gcp,linux,ubuntu,raspberrypi,kubernetes,latex,postman,graphql,godot,unity,unreal,gradle,vim,npm,matlab&perline=8" />
   </a>
 </p>
 
