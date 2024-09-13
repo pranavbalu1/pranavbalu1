@@ -105,14 +105,14 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pranavbalu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav balu" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/pranavbalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavbalu1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranav_balu_124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranav_balu_124" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranavbalu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavbalu1" height="30" width="40" /></a>
-<a href="https://discord.gg/.ent1ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".ent1ty" height="30" width="40" /></a>
-</p>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/pranavbalu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav balu" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/pranavbalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranavbalu1" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/pranav_balu_124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranav_balu_124" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/pranavbalu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavbalu1" height="30" width="40" /></a>
+    <a href="https://discord.gg/.ent1ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".ent1ty" height="30" width="40" /></a>
+  </p>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+  <p align="center">
+       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  </p>
