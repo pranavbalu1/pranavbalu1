@@ -83,11 +83,6 @@
   <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavbalu1&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-<p>
-
-  
-</p>
-
 <div align="center " >
     <a href="https://github.com/pranavbalu1/Image-Depth-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavbalu1&repo=Image-Depth-Analysis&theme=dark"  />
