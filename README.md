@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbalu1&label=Profile%20views&color=0d1117&style=flat" alt="pranavbalu1" /> </p>
 
-
-
 - 🔭 I’m currently working on [Abyss](https://github.com/pranavbalu1/AbyssUnity)
 
 - 🌱 I’m currently learning **AWS, Django, C#, Engine Development**
@@ -24,8 +22,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pranavbalu1&theme=onedark&column=8&margin-w=10&margin-h=25&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="pranavbalu1" />
   </a>
 </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
