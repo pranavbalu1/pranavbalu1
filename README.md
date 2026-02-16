@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbalu1&label=Profile%20views&color=0d1117&style=flat" alt="pranavbalu1" /> </p>
 
-- 🔭 I’m currently working on [Abyss](https://github.com/pranavbalu1/AbyssUnity)
-
-- 🌱 I’m currently learning **AWS, Django, C#, Engine Development**
-
-- 🤝 I’m looking for help with [Abyss_Server](https://github.com/pranavbalu1/Abyss-Server)
-
 - 👨‍💻 All of my projects are available at [https://github.com/pranavbalu1](https://github.com/pranavbalu1)
 
 - 💬 Ask me about **react, vue, tensorflow, sci-kit learn, opencv**
